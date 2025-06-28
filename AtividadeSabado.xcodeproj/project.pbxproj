@@ -13,6 +13,7 @@
 		DC81D09A2E1014D600CC0A5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC81D0982E1014D600CC0A5F /* Main.storyboard */; };
 		DC81D09C2E1014D900CC0A5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC81D09B2E1014D900CC0A5F /* Assets.xcassets */; };
 		DC81D09F2E1014D900CC0A5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC81D09D2E1014D900CC0A5F /* LaunchScreen.storyboard */; };
+		DC9391612E103227000E43BD /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC9391602E103227000E43BD /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC81D09B2E1014D900CC0A5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC81D09E2E1014D900CC0A5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC81D0A02E1014D900CC0A5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC9391602E103227000E43BD /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DC81D09B2E1014D900CC0A5F /* Assets.xcassets */,
 				DC81D09D2E1014D900CC0A5F /* LaunchScreen.storyboard */,
 				DC81D0A02E1014D900CC0A5F /* Info.plist */,
+				DC9391602E103227000E43BD /* SettingsViewController.swift */,
 			);
 			path = AtividadeSabado;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				DC81D0972E1014D600CC0A5F /* ViewController.swift in Sources */,
 				DC81D0932E1014D600CC0A5F /* AppDelegate.swift in Sources */,
 				DC81D0952E1014D600CC0A5F /* SceneDelegate.swift in Sources */,
+				DC9391612E103227000E43BD /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
